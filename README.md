@@ -42,8 +42,8 @@ A simple Node.js application that uses the **Google PageSpeed Insights API** to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/pagespeed-analyzer.git
-   cd pagespeed-analyzer
+   git clone https://github.com/indrajithc/pagespeed-app.git
+   cd pagespeed-app
    ```
 
 2. **Install dependencies:**
